@@ -1,6 +1,10 @@
 # NMDS-Analysis
 nmds分析画图
 
+
+示例仅作格式说明
+
+
 Rscript plot_nmds.r Bacteria.abundance_species.xls  group.list ceshi
 
 
